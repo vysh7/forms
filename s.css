@@ -1,0 +1,26 @@
+body{
+        background-image: url(starry\ night.jpg) ;
+        color:aliceblue;
+        border: double;
+        border-radius: 15px;
+        text-align: center;
+        
+}
+form{
+        font-size: 40px;
+        margin-left: 150px;
+        margin-bottom: 100px;
+        margin-top: 5px;
+        text-align: left;
+}
+h1{
+        font-size: 70px;
+        color: antiquewhite;
+}
+h2{
+        font-size: 40px;
+}
+p{
+        font-size: 30px ;
+}
+    
